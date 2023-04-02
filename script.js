@@ -63,3 +63,4 @@ console.log(divide(2, 6));
 console.log(minus(5, 5));
 
 
+// Добавлено из github
